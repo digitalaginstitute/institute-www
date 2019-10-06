@@ -16,16 +16,6 @@ th {
   font-weight: bold;
 }
 
-.skills-content .media {
-  margin: 0 !important;
-  padding: 4px !important;
-  border: 0 !important;
-}
-
-.skills-content .progress {
-  height: 4px !important;
-}
-
 .custom-tags {
   text-align: center !important;
   display: block;
